@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479010501579",
+    "project_id": "virtualtryon-66563",
+    "storage_bucket": "virtualtryon-66563.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479010501579:android:59c115bdf035bd0d263c4e",
+        "android_client_info": {
+          "package_name": "com.example.virtualtryon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6CBRFvpRlQJJCcap7gVRDM93jMUtEX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
